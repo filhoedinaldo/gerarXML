@@ -1,9 +1,7 @@
 import os
 import csv
 
-# Caminho base onde os arquivos modelo.xml e dados.csv estão localizados
-#caminho_base = './'
-
+#
 # Diretório onde o script está localizado
 caminho_base = os.path.dirname(os.path.abspath(__file__))
 
